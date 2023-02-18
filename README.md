@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there My name is Leonardo Rissetto👋
+==========================
 
-<!--
-**LeoRissetto/LeoRissetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engenineering Student
+-----------------------------
 
-Here are some ideas to get you started:
+I'm a Computer Science Engenineering Student at Universidade de São Paulo (USP), wich is the best university in Latin America and one of the most ronowed in the world. I love to code and solve Other People's problems using high end tech. My main focus is making applications that impact the life of lots of users.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying in Universidade de São Paulo (USP).
+- 🌱 I’m currently learning Data Structure, Web Development and Object Oriented Programming.
+- 🤝  I'm open to collaborating on projects that have a high impact in peoples lives.
+* ⚡  I love sports and my favorite is Basketball. I also love hiting the gym.
+
