@@ -1,4 +1,4 @@
-### Hi there My name is Leonardo Rissetto👋
+Hi 👋 My name is Leonardo Rissetto
 ==========================
 
 Computer Science Engenineering Student
@@ -9,5 +9,5 @@ I'm a Computer Science Engenineering Student at Universidade de São Paulo (USP)
 - 🔭 I’m currently studying in Universidade de São Paulo (USP).
 - 🌱 I’m currently learning Data Structure, Web Development and Object Oriented Programming.
 - 🤝  I'm open to collaborating on projects that have a high impact in peoples lives.
-* ⚡  I love sports and my favorite is Basketball. I also love hiting the gym.
+- ⚡  I love sports and my favorite is Basketball. I also love hiting the gym.
 
