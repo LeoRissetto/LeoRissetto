@@ -1,15 +1,26 @@
-Hi 👋 My name is Leonardo Rissetto
-==========================
+# 👋 Sobre Mim
 
-Computer Science Engenineering Student
------------------------------
+E aí! 👋 Sou Leonardo Gueno Rissetto, um estudante de Engenharia de Computação apaixonado por códigos e inovação.
 
-I'm a Computer Science Engenineering Student at Universidade de São Paulo (USP), wich is the best university in Latin America and one of the most ronowed in the world. I love to code and solve Other People's problems using high end tech. My main focus is making applications that impact the life of lots of users.
+📚 Atualmente no [X] período do curso na Universidadae de Sao Paulo (USP).
+🚀 Explorando o mundo da programação e do hardware com empolgação.
+🤖 Amante de linguagens como C, Python, C++, Java e Javascript.
 
-My main Language is Brazilian Portuguese, but I am also fluent in English.
+## 💡 O que me move
 
-- 🔭 I’m currently studying in Universidade de São Paulo (USP).
-- 🌱 I’m currently learning Data Structure, Web Development and Object Oriented Programming.
-- 🤝  I'm open to collaborating on projects that have a high impact in peoples lives.
-- ⚡  I love sports and my favorite is Basketball. I also love hiting the gym.
+A busca constante por conhecimento e desafios é o que me motiva. Adoro resolver problemas complexos e aprender algo novo todos os dias.
+
+## 🛠️ Projetos Legais
+
+Já me joguei em várias aventuras tecnológicas, como o projeto de [Nome do Projeto], onde [breve descrição do projeto].
+
+## 🌍 Próximos Passos
+
+Estou de olho no futuro! Quero explorar IA, segurança cibernética e contribuir para projetos inovadores.
+
+## 📫 Vamos Conversar!
+
+Estou sempre aberto para trocar ideias e colaborar em projetos. Se quiser bater um papo, é só dar um alô!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seu-perfil/)
 
