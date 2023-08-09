@@ -2,7 +2,7 @@
 
 E aí! 👋 Sou Leonardo Gueno Rissetto, um estudante de Engenharia de Computação apaixonado por códigos e inovação.
 
-📚 Atualmente no [X] período do curso na Universidadae de Sao Paulo (USP).
+📚 Atualmente no terceiro período do curso na Universidadae de Sao Paulo (USP).
 🚀 Explorando o mundo da programação e do hardware com empolgação.
 🤖 Amante de linguagens como C, Python, C++, Java e Javascript.
 
