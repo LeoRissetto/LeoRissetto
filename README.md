@@ -1,22 +1,44 @@
-# 👋 Sobre Mim
+# Sobre mim
 
-E aí! 👋 Sou Leonardo Gueno Rissetto, um estudante de Engenharia de Computação apaixonado por códigos e inovação.
+Estudante de Engenharia de Computação (penúltimo semestre) com foco em desenvolvimento de software e engenharia de qualidade. Tenho interesse especial em desenvolvimento Web, Mobile, Desktop e em soluções relacionadas a testes e automação. Busco oportunidades de estágio para aplicar meus conhecimentos técnicos em contextos reais, colaborar com equipes e continuar evoluindo como desenvolvedor.
 
-📚 Atualmente no quarto período do curso na Universidadae de Sao Paulo (USP).
-🚀 Explorando o mundo da programação e do hardware com empolgação.
-🤖 Amante de linguagens como C, Python, C++, Java e Javascript.
+- Curso: Engenharia de Computação — Universidade de São Paulo (USP)
+- Áreas de interesse: Desenvolvimento Web e Mobile, Engenharia de Qualidade, Automação de Testes
+- Abordagem: Resolução de problemas reais com soluções de software práticas e eficientes
 
-## 💡 O que me move
+---
 
-A busca constante por conhecimento e desafios é o que me motiva. Adoro resolver problemas complexos e aprender algo novo todos os dias.
+# Projetos em destaque
 
-## 🌍 Próximos Passos
+| Projeto | Descrição |
+|--------|------------|
+| [GreenEye](https://github.com/marcogarcia2/green_eye) | Sistema inteligente de monitoramento de estufas, com aplicação mobile e hardware embarcado |
+| [Adventures of Lolo](https://github.com/LeoRissetto/Trabalho-POO) | Jogo desenvolvido em Java do zero, sem uso de engine |
+| [Compilador PL/0](https://github.com/LeoRissetto/Trabalho-2-Compiladores) | Compilador com interface gráfica, incluindo análise léxica e sintática para linguagem PL/0 |
 
-Estou de olho no futuro! Quero explorar IA, segurança cibernética e contribuir para projetos inovadores.
+Para mais projetos, acesse minha [página de repositórios](https://github.com/LeoRissetto?tab=repositories).
 
-## 📫 Vamos Conversar!
+---
 
-Estou sempre aberto para trocar ideias e colaborar em projetos. Se quiser bater um papo, é só dar um alô!
+# Tecnologias e ferramentas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/leonardo-rissetto-25a961287)
+**Linguagens:** Python, Java, C, JavaScript, TypeScript, SQL  
+**Frameworks e bibliotecas:** React, Node.js, Bootstrap  
+**Ferramentas:** Git, Docker, Linux, Firebase, Figma  
+**Conceitos aplicados:** Programação orientada a objetos, MVC, CI/CD, testes automatizados, controle de versão
 
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=default" height="150" />
+</p>
+
+---
+
+# Contato
+
+- LinkedIn: [https://www.linkedin.com/in/leonardo-rissetto-25a961287/](https://www.linkedin.com/in/leonardo-rissetto-25a961287/)  
+- Email: leonardorissetto01@gmail.com
