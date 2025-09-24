@@ -1,6 +1,6 @@
 # Sobre mim
 
-Estudante de Engenharia de Computação (penúltimo semestre) com foco em desenvolvimento de software e engenharia de qualidade. Tenho interesse especial em desenvolvimento Web, Mobile, Desktop e em soluções relacionadas a testes e automação. Busco oportunidades de estágio para aplicar meus conhecimentos técnicos em contextos reais, colaborar com equipes e continuar evoluindo como desenvolvedor.
+Estudante de Engenharia de Computação na USP (penúltimo semestre) com foco em desenvolvimento de software. Tenho interesse especial em desenvolvimento Full Stack, Web, Mobile, Desktop. Busco oportunidades de estágio para aplicar meus conhecimentos técnicos em contextos reais, colaborar com equipes e continuar evoluindo como desenvolvedor.
 
 ---
 
@@ -18,10 +18,9 @@ Para mais projetos, acesse minha [página de repositórios](https://github.com/L
 
 # Tecnologias e ferramentas
 
-**Linguagens:** Python, Java, C, JavaScript, TypeScript, SQL  
-**Frameworks e bibliotecas:** React, Node.js, Bootstrap  
+**Linguagens:** Python, Java, C, C++, JavaScript, TypeScript, SQL  
+**Frameworks e bibliotecas:** React, Node.js, Flutter, Express  
 **Ferramentas:** Git, Docker, Linux, Firebase, Figma  
-**Conceitos aplicados:** Programação orientada a objetos, MVC, CI/CD, testes automatizados, controle de versão
 
 ---
 
