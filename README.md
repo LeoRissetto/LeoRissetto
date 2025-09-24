@@ -2,10 +2,6 @@
 
 Estudante de Engenharia de Computação (penúltimo semestre) com foco em desenvolvimento de software e engenharia de qualidade. Tenho interesse especial em desenvolvimento Web, Mobile, Desktop e em soluções relacionadas a testes e automação. Busco oportunidades de estágio para aplicar meus conhecimentos técnicos em contextos reais, colaborar com equipes e continuar evoluindo como desenvolvedor.
 
-- Curso: Engenharia de Computação — Universidade de São Paulo (USP)
-- Áreas de interesse: Desenvolvimento Web e Mobile, Engenharia de Qualidade, Automação de Testes
-- Abordagem: Resolução de problemas reais com soluções de software práticas e eficientes
-
 ---
 
 # Projetos em destaque
