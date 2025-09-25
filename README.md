@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=280&section=header&text=Leonardo%20Rissetto&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Leonardo%20Rissetto&fontSize=70&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -22,7 +22,7 @@
 </p>
 
 ---
-      
+
 ### Tecnologias e Ferramentas
 
 <p>
@@ -32,6 +32,7 @@
     <td valign="top" width="40%">
 
 ### GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeoRissetto&show_icons=true&theme=default" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRissetto&layout=compact&theme=default" alt="Top Languages"/>
@@ -41,17 +42,19 @@
 </table>
 
 ### Gráfico de Atividades
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoRissetto" alt="Gráfico de Atividades"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoRissetto&bg_color=fffffb&color=24292e&line=0077B5&point=0077B5&area=true&area_color=ADD8E6&hide_border=true" alt="Gráfico de Atividades"/>
 </p>
 
 ### Meus Projetos em Destaque
+
 <div align="center">
 
-| Projeto                                                        | Descrição                                                                               |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| [**GreenEye**](https://github.com/marcogarcia2/green_eye)       | Sistema inteligente de monitoramento de estufas, com aplicação mobile e hardware embarcado. |
-| [**Adventures of Lolo**](https://github.com/LeoRissetto/Trabalho-POO) | Jogo desenvolvido em Java do zero, sem uso de engine.                                   |
+| Projeto                                                                       | Descrição                                                                                     |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [**GreenEye**](https://github.com/marcogarcia2/green_eye)                     | Sistema inteligente de monitoramento de estufas, com aplicação mobile e hardware embarcado.   |
+| [**Adventures of Lolo**](https://github.com/LeoRissetto/Trabalho-POO)         | Jogo desenvolvido em Java do zero, sem uso de engine.                                         |
 | [**Compilador PL/0**](https://github.com/LeoRissetto/Trabalho-2-Compiladores) | Compilador com interface gráfica, incluindo análise léxica e sintática para a linguagem PL/0. |
 
 </div>
