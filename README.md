@@ -41,12 +41,6 @@
   </tr>
 </table>
 
-### Gráfico de Atividades
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoRissetto&bg_color=fffffb&color=24292e&line=0077B5&point=0077B5&area=true&area_color=ADD8E6&hide_border=true" alt="Gráfico de Atividades"/>
-</p>
-
 ### Meus Projetos em Destaque
 
 <div align="center">
