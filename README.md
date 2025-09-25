@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=Leonardo%20Rissetto&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=280&section=header&text=Leonardo%20Rissetto&fontSize=70&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -33,8 +33,8 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoRissetto&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRissetto&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoRissetto&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoRissetto&layout=compact&theme=default" alt="Top Languages"/>
 </p>
     </td>
   </tr>
@@ -42,7 +42,7 @@
 
 ### Gráfico de Atividades
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoRissetto&theme=tokyo-night" alt="Gráfico de Atividades"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeoRissetto" alt="Gráfico de Atividades"/>
 </p>
 
 ### Meus Projetos em Destaque
