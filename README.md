@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Leonardo%20Rissetto&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=defa&height=280&section=header&text=Leonardo%20Rissetto&fontSize=70&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -61,8 +61,4 @@
 
 <p align="center">
   Para mais projetos, acesse minha <a href="https://github.com/LeoRissetto?tab=repositories">página de repositórios</a>.
-</p>
-
-<p align="center">
-  <img src="https://github.com/LeoRissetto/LeoRissetto/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
